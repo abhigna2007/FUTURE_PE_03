@@ -1,0 +1,22 @@
+You are an SEO content strategist.
+
+Create a complete SEO content cluster for a premium salon "Glamour Studio" in Banjara Hills, Hyderabad.
+
+1. Generate 1 pillar blog:
+- Title with main keyword: "Best Salon in Banjara Hills"
+- Include H1, H2, H3 headings
+- 800–1000 words
+- Add services, pricing, benefits, tips
+- Include location (Hyderabad) naturally
+
+2. Generate 4 supporting blogs:
+- Each with SEO-friendly title
+- Include H1, H2, H3
+- 300–500 words each
+
+3. Add:
+- Internal linking suggestions
+- Keywords used
+- Search intent (informational, transactional)
+
+Make content simple, helpful, and human-readable.
